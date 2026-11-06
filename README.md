@@ -33,3 +33,11 @@ The core RFM workflow was developed using a tutorial-guided learning approach an
 ## Dataset
 
 The project uses the Online Retail II dataset. Refer to the original dataset source and its usage terms before redistributing the raw data.
+
+## Power BI Dashboard
+
+Download the interactive Power BI dashboard (.pbix):
+
+[Download IKEA Dashboard BI](https://github.com/codeAmaan/ikea-gifting-customer-analytics/releases/tag/v1.0.0)
+
+A PDF preview is available in the `dashboard` folder.
